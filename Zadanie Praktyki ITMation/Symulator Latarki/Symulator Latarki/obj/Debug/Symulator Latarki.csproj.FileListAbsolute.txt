@@ -1,0 +1,10 @@
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\obj\Debug\Symulator Latarki.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\obj\Debug\Symulator_Latarki.Form1.resources
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\obj\Debug\Symulator_Latarki.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\obj\Debug\Symulator Latarki.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\obj\Debug\Symulator Latarki.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\bin\Debug\Symulator Latarki.exe.config
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\bin\Debug\Symulator Latarki.exe
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\bin\Debug\Symulator Latarki.pdb
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\obj\Debug\Symulator Latarki.exe
+C:\Users\Mateusz\Desktop\STUDIA\SEMESTR IV\C#\Zadanie praktyki\Symulator Latarki\Symulator Latarki\obj\Debug\Symulator Latarki.pdb
